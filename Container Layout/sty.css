@@ -1,0 +1,9 @@
+.container-md{
+    background-color: pink;
+}
+img{
+    margin: 0;
+    height: 500px;
+    width: 600px;
+    object-fit: contain;
+}
